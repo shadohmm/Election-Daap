@@ -2,24 +2,22 @@
 # Election - DAPP Tutorial
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
-Full Free Video Tutorial:**
-https://youtu.be/3681ZYbDSSk
 
-## 2019 Updated Code
-https://github.com/dappuniversity/election/tree/2019_update
+
+
 
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
-- NPM: https://nodejs.org
-- Truffle: https://github.com/trufflesuite/truffle
-- Ganache: http://truffleframework.com/ganache/
-- Metamask: https://metamask.io/
+- NPM
+- Truffle: 
+- Ganache
+- Metamask
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/shadohmm/Election-Daap`
 
 ## Step 2. Install dependencies
 ```
@@ -35,14 +33,11 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 You must migrate the election smart contract each time your restart ganache.
 
 ## Step 5. Configure Metamask
-See free video tutorial for full explanation of these steps:
-- Unlock Metamask
-- Connect metamask to your local Etherum blockchain provided by Ganache.
-- Import an account provided by ganache.
+meta mask is a chrome extension you can add to chrome or brave browser for chrome web-store
 
 ## Step 6. Run the Front End Application
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
-If you get stuck, please reference the free video tutorial.
+
 
